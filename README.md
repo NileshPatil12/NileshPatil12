@@ -21,6 +21,7 @@
 - 🧠 Strong in **DSA, OOPS, DBMS, OS, CN**
 - ☁️ Exploring **Cloud (GCP) & AI integration**
 - 🌐 Portfolio: **https://spiffy-dodol-8de6b6.netlify.app/**
+- 🔗 Linkdin: **https://www.linkedin.com/in/nileshpatil1209/**
 
 ---
 
