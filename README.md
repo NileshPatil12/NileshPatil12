@@ -37,7 +37,7 @@
 ---
 
 ### 🛠️ Tech Stack
-**Java | Spring Boot | React | Node | Express | MySQL | MongoDB | JavaScript | HTML | CSS | Tailwind | Git | GCP**
+**Java | Spring Boot | React | Node | Express | MySQL | MongoDB | JavaScript | HTML | CSS | Tailwind | Git | APIGEE | GCP**
 
 
 ---
