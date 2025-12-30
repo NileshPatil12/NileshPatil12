@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nilesh</h1>
-<h3 align="center">Full Stack Developer | MERN & Spring Boot | DSA Enthusiast </h3>
+<h1 align="center">Hi 👋, I'm Nilesh </h1>
+<h3 align="center">Computer Engineer | MERN & Spring Boot | DSA Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;DSA+%26+Problem+Solving;Always+Learning+%F0%9F%9A%80&center=true&width=500&height=45">
@@ -57,6 +57,6 @@
 
 
 ### ✨ Quote
-> *"Don’t rely on social media. Learn. Read. Get better."*
+> *"Keep Moving Forward"*
 
 ⭐ **Always learning and building — check out my GitHub repositories!**
