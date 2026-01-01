@@ -59,4 +59,4 @@
 ### ✨ Quote
 > *"Keep Moving Forward"*
 
-⭐ **Always learning and building — check out my GitHub repositories!**
+⭐ **Always learning and building — check out my GitHub repositories! **
