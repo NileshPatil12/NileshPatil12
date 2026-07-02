@@ -33,7 +33,7 @@
 - 📊 **Performance Visualization Tool** – Interactive dashboards using **React & Recharts**
 - 🎓 **EdTechLearn** – Educational platform built with **React, Bootstrap & Router**
 - 🧑‍💼 **MyPortfolio** – Personal portfolio using **React, Tailwind & EmailJS**
-- 🧑‍💼 **DocumentTools** – Document toos using **React, Tailwind , PDF tools packages & NodeJs**
+- 🧑‍💼 **Document-Tools** – Document toos using **React, Tailwind , PDF tools packages & NodeJs**
 
 ---
 
